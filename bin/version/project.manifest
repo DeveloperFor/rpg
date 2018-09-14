@@ -1,0 +1,53 @@
+{
+  "assets": {
+    "D:\\upt\\res/HelloWorld.png": {
+      "md5": "55ea4e952bf080f300379ec26723598b", 
+      "size": 37864
+    }, 
+    "D:\\upt\\res/images/fbdt_foluolunsa.png": {
+      "md5": "aa2314332bfa0f4843954ff4c5496c51", 
+      "size": 311839
+    }, 
+    "D:\\upt\\res/images/yg_xuezhan_judian1.png": {
+      "md5": "def9bf84d62342b84e4d94c49be96328", 
+      "size": 6381
+    }, 
+    "D:\\upt\\res/images/yg_xuezhan_judian2.png": {
+      "md5": "7c3c9023b426021c9139ae7df916aead", 
+      "size": 6670
+    }, 
+    "D:\\upt\\res/images/yg_zhandouxuanze_xingji_3.png": {
+      "md5": "9a4d9d649ce817c33f230bdc385cf37e", 
+      "size": 1901
+    }, 
+    "D:\\upt\\src/app/MyApp.lua": {
+      "md5": "6b2e36fddbad045c2b36b459b71ec32b", 
+      "size": 130
+    }, 
+    "D:\\upt\\src/app/views/MainScene.lua": {
+      "md5": "c1e2d15cf9c7dbea0494dbf49da89ae3", 
+      "size": 392
+    }, 
+    "D:\\upt\\src/config.lua": {
+      "md5": "45f11be10ba1670e7ff9d960d9ce87b8", 
+      "size": 654
+    }, 
+    "D:\\upt\\src/main.lua": {
+      "md5": "ad49f1648acd2f96d1fc88ff1b1cff79", 
+      "size": 344
+    }, 
+    "D:\\upt\\src/packages/mvc/AppBase.lua": {
+      "md5": "6d6cbd32172bd49e71461168cc1bd5da", 
+      "size": 1853
+    }, 
+    "D:\\upt\\src/packages/mvc/ViewBase.lua": {
+      "md5": "13ce568720d7c0b53858fba226c76262", 
+      "size": 1888
+    }, 
+    "D:\\upt\\src/packages/mvc/init.lua": {
+      "md5": "6b9173481a1300c5e737ad5885ebef00", 
+      "size": 94
+    }
+  }, 
+  "version": "1.0.000001"
+}
